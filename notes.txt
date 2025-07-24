@@ -1,0 +1,14 @@
+Principles of an Accessible Form
+
+* Avoid unnecessary questions
+* Minimize questions per stream
+* Provide context clues
+  - Chunking - breaking long form into steps, increases completion rate
+    -- Remind user of form purpose
+    -- Clearly label the current step
+    -- How many tasks have been completed
+* Group related questions
+* Use clear input labels vs placeholder text
+  - Mobile labels should be above, not beside
+* Make focus indicators obvious
+* Help users spot and correct errors
